@@ -3,14 +3,17 @@
 
 >I hope you can find a corresponding solution to all kinds of problems encountered in programming code, and upload and share your own problems and solutions
 
-## javaweb
+## 1.javaweb
 >这属于Javaweb开发的问题讨论
 
-### >>idea --tomcat
+### 在idea上配置Javaweb，部署jdbc出现的问题
 
 
-## python
+## 2.python
 > 这属于python开发的问题讨论
-### >>网络爬虫
+### 网络爬虫
 
-## mysql
+## 3.mysql
+
+
+## 4.C语言
