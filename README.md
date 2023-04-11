@@ -3,20 +3,20 @@
 <br />I hope you can find a corresponding solution to all kinds of problems encountered in programming code, and upload and share your own problems and solutions
 
 ## 1.Java
->这属于Java开发的问题讨论：[解决](/solution/Java问题.md)
+>这属于Java开发的问题讨论：[点此跳转](/solution/Java问题.md)
 #### ·入门--配置Java
 #### ·web入门--配置Tomcat
 
 ## 2.Python
-> 这属于python开发的问题讨论：[解决](/solution/python问题.md)
+> 这属于python开发的问题讨论：[点此跳转](/solution/python问题.md)
 #### ·pass
 
 ## 3.Mysql
-> 这属于mysql开发的问题讨论：[解决](/solution/mysql问题.md)
+> 这属于mysql开发的问题讨论：[点此跳转](/solution/mysql问题.md)
 #### ·pass
 
 ## 4.C语言 or C++
-> 这属于C语言开发的问题讨论：[解决](/solution/C问题.md)
+> 这属于C语言开发的问题讨论：[点此跳转](/solution/C问题.md)
 #### ·pass
 
 ## 5.其他
